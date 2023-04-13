@@ -1,5 +1,3 @@
-!<arch>
-0-isupper.o/    0           0     0     644     207       `
 #include "main.h"
 
 /**
@@ -11,4 +9,3 @@ int _isupper(int c)
 {
 	return (c >= 'A' && c <= 'Z');
 }
-
